@@ -1,0 +1,51 @@
+# Portfólio - Gabriel Nascimento
+
+## Sobre o Projeto
+
+Este é um portfólio pessoal desenvolvido em HTML5. O site apresenta minhas informações, habilidades, projetos e um formulário de contato.
+
+## Tecnologias Utilizadas
+
+- HTML5
+- Figma
+- GitHub
+
+## Projetos
+
+### GameZone Retro
+Projeto desenvolvido utilizando HTML.
+
+### Projeto Filme
+Projeto desenvolvido utilizando HTML e CSS.
+
+### Trabalho Raul Itaú Figma
+Projeto desenvolvido utilizando Figma.
+
+## Formulário de Contato
+
+O formulário possui campos para:
+
+- Nome
+- E-mail
+- Assunto
+- Mensagem
+
+Foram utilizadas as tags:
+
+`form`, `fieldset`, `legend`, `label`, `input`, `select`, `textarea` e `button`.
+
+## Estrutura do Site
+
+- Sobre Mim
+- Minhas Habilidades
+- Meus Projetos
+- Entre em Contato
+- Rodapé
+
+## Como Executar
+
+Abra o arquivo `index.html` no VS Code e depois execute no navegador.
+
+## Autor
+
+Gabriel Nascimento
